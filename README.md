@@ -5,6 +5,8 @@ Este proyecto consistirá en la creación de un "videojuego" de deducción socia
 
 La idea surge ante la falta de tiempo de muchas personas conocidas (incluido yo mismo) para reunirse presencialmente para jugar este tipo de juegos.
 
+# [Memoria del hito 1](https://github.com/AndrosArcadia/SDG-Project/blob/main/doc/memoria_hito1.md)
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
