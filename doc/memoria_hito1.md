@@ -21,6 +21,6 @@ el cual incluye un listado con varias licencias. ([LICENSE](https://github.com/A
 - He realizado un fork al repositorio de la profesora. ([Repositorio de la profesora](https://github.com/cvillalonga/CC-25-26)) ([Mi fork](https://github.com/AndrosArcadia/CC-25-26))
 - He editado el archivo "proyectos/hito1.md", añadiendo en mi línea correspondiente el enlace a mi repositorio del proyecto. ([proyectos/hito1.md](https://github.com/AndrosArcadia/CC-25-26/blob/main/proyectos/hito1.md))
 - He creado un pull request en mi fork, para que la modificación realizada en el archivo "proyectos/hito1.md" pase al repositorio de la profesora. ([Pull Request](https://github.com/cvillalonga/CC-25-26/pull/26))
+- He añadido el enlace a esta memoria en el archivo "README.md" del repositorio del proyecto. ([Esta memoria](https://github.com/AndrosArcadia/SDG-Project/blob/main/doc/memoria_hito1.md))
 
 # FIN
-
