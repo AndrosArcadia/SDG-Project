@@ -1,4 +1,7 @@
 # SDG-Project
+
+![Trozo de bizcocho giratorio](https://github.com/AndrosArcadia/SDG-Project/blob/main/doc/_VHONtVyNovY87u_4nXd7MkroAHqYuzbJ2v8DXCFJKA.gif)
+
 Repositorio para mi proyecto de la asignatura Cloud Computing del máster en Ingeniería Informática.
 
 Este proyecto consistirá en la creación de un "videojuego" de deducción social, similar a juegos como "Los hombres lobo de Castronegro" o "Blood on the Clocktower". Usará un servidor remoto al que se accederá para jugar, y en el que se almacenarán las partidas jugadas, así como alojará la partida.
